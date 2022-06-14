@@ -1,10 +1,9 @@
 ## Olá, muito prazer! Meu nome é Eric Gomes.
 
-⚽ Today I am an athlete, but a future programmer; <br>
-👀 I'm currently studying to be a FullStack developer; <br>
+🐱‍👤 Prounons: he/his.
+👀 Today I am an athlete, Agronomic Engineer and Front-End developer in development. <br>
 😉 I already have partial knowledge in HTML5, CSS3, Git and GitHub... <br>
 🤓 Languages: Native Portuguese. Intermediate Spanish and English; <br>
-🐱‍👤 Prounons: he/his.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
