@@ -1,6 +1,6 @@
 ## Olá, muito prazer! Meu nome é Eric Gomes.
 
-🐱‍👤 Prounons: he/his.
+🐱‍👤 Prounons: he/his. <br>
 👀 Today I am an athlete, Agronomic Engineer and Front-End developer in development. <br>
 😉 I already have partial knowledge in HTML5, CSS3, Git and GitHub... <br>
 🤓 Languages: Native Portuguese. Intermediate Spanish and English; <br>
